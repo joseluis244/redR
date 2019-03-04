@@ -1,0 +1,5 @@
+native/
+ssl/
+server/node_modules/
+server/uploads/*.jpg
+app/node_modules/
